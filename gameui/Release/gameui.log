@@ -1,0 +1,92 @@
+﻿  Compiling pointeroverride.asm
+   Assembling: D:\buildslave\rel\pmmod\src\public\tier0\pointeroverride.asm
+  Microsoft (R) Macro Assembler Version 12.00.30723.0
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  Running VPC CRC Check - gameui.vpc
+  BitmapImagePanel.cpp
+  CommandCheckButton.cpp
+  CvarNegateCheckButton.cpp
+  cvarslider.cpp
+  CvarTextEntry.cpp
+  CvarToggleCheckButton.cpp
+  HapticControlBox.cpp
+  KeyToggleCheckButton.cpp
+  LabeledCommandComboBox.cpp
+  OptionsSubAboutPMMOD.cpp
+  URLButton.cpp
+  vcontrolslistpanel.cpp
+  BaseSaveGameDialog.cpp
+  BenchmarkDialog.cpp
+  BonusMapsDialog.cpp
+  ChangeGameDialog.cpp
+  CommentaryDialog.cpp
+  CommentaryExplanationDialog.cpp
+  ContentControlDialog.cpp
+  ControllerDialog.cpp
+  CreateMultiplayerGameBotPage.cpp
+  CreateMultiplayerGameDialog.cpp
+  CreateMultiplayerGameGameplayPage.cpp
+  CreateMultiplayerGameServerPage.cpp
+  CustomTabExplanationDialog.cpp
+  GameConsoleDialog.cpp
+  LoadCommentaryDialog.cpp
+  LoadGameDialog.cpp
+  LoadGameDialog_Xbox.cpp
+  LoadingDialog.cpp
+  MultiplayerAdvancedDialog.cpp
+  NewGameDialog.cpp
+  OptionsDialog_Xbox.cpp
+  PlayerListDialog.cpp
+  SaveGameDialog.cpp
+  SaveGameDialog_Xbox.cpp
+  achievementsdialog.cpp
+  basedialog.cpp
+  dialogmenu.cpp
+  leaderboarddialog.cpp
+  matchmakingbasepanel.cpp
+  pausedialog.cpp
+  sessionbrowserdialog.cpp
+  sessionlobbydialog.cpp
+  sessionoptionsdialog.cpp
+  welcomedialog.cpp
+  OptionsDialog.cpp
+  OptionsSubAudio.cpp
+  OptionsSubDifficulty.cpp
+  OptionsSubGame.cpp
+  OptionsSubHaptics.cpp
+  OptionsSubKeyboard.cpp
+  OptionsSubMouse.cpp
+  OptionsSubMultiplayer.cpp
+  OptionsSubPortal.cpp
+  OptionsSubVideo.cpp
+  OptionsSubVoice.cpp
+  BackgroundMenuButton.cpp
+  BasePanel.cpp
+  BonusMapsDatabase.cpp
+  GameConsole.cpp
+  GameUI_Interface.cpp
+  gameui_util.cpp
+  imageutils.cpp
+  language.cpp
+  LogoFile.cpp
+  memoverride.cpp
+  ModInfo.cpp
+  MouseMessageForwardingPanel.cpp
+  msgbuffer.cpp
+  netapi.cpp
+  ObjectList.cpp
+  PanelListPanel.cpp
+  RunGameEngine.cpp
+  SaveGameBrowserDialog.cpp
+  scriptobject.cpp
+  Socket.cpp
+  Sys_Utils.cpp
+  TextEntryBox.cpp
+  TGAImagePanel.cpp
+  vgui_controls.cpp
+  VGuiSystemModuleLoader.cpp
+     Creating library .\Release\.\gameui.lib and object .\Release\.\gameui.exp
+  gameui.vcxproj -> D:\buildslave\rel\pmmod\src\gameui\.\Release\.\gameui.dll
+          1 file(s) copied.
+          1 file(s) copied.
