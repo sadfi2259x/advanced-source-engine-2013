@@ -1,0 +1,17 @@
+﻿  Compiling pointeroverride.asm
+   Assembling: D:\buildslave\rel\pmmod\src\public\tier0\pointeroverride.asm
+  Microsoft (R) Macro Assembler Version 12.00.30723.0
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  Running VPC CRC Check - vconfig.vpc
+  ConfigManager.cpp
+  filesystem_init.cpp
+  main.cpp
+  ManageGamesDialog.cpp
+  memoverride.cpp
+  registry.cpp
+  SourceAppInfo.cpp
+  VConfigDialog.cpp
+  vgui_controls.cpp
+     Creating library .\Release\.\vconfig.lib and object .\Release\.\vconfig.exp
+  vconfig.vcxproj -> D:\buildslave\rel\pmmod\src\utils\vconfig\.\Release\.\vconfig.exe

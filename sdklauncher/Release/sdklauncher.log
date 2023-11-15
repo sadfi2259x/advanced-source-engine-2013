@@ -1,0 +1,25 @@
+﻿  Compiling pointeroverride.asm
+   Assembling: D:\buildslave\rel\pmmod\src\public\tier0\pointeroverride.asm
+  Microsoft (R) Macro Assembler Version 12.00.30723.0
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  Running VPC CRC Check - sdklauncher.vpc
+  ConfigManager.cpp
+  configs.cpp
+  CreateModWizard.cpp
+  filesystem_init.cpp
+  Main.cpp
+  memoverride.cpp
+  min_footprint_files.cpp
+  ModConfigsHelper.cpp
+  ModWizard_CopyFiles.cpp
+  ModWizard_Finished.cpp
+  ModWizard_GetModInfo.cpp
+  ModWizard_Intro.cpp
+  ModWizard_TemplateOptions.cpp
+  registry.cpp
+  SDKLauncherDialog.cpp
+  SourceAppInfo.cpp
+  vgui_controls.cpp
+     Creating library .\Release\.\sdklauncher.lib and object .\Release\.\sdklauncher.exp
+  sdklauncher.vcxproj -> D:\buildslave\rel\pmmod\src\sdklauncher\.\Release\.\sdklauncher.exe

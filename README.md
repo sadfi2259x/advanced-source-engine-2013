@@ -9,9 +9,9 @@ So, using the 2017 Source Engine source code leaks, I tried to link some missing
 - appframework (library)
 - launcher (launcher.dll)
 - launcher_main (hl2.exe)
+- GameUI (GameUI.dll)
 ## Current tasks
 Port the other missing items like:
-- GameUI
 - Hammer_dll
 - Hammer_launcher
 - engine.dll source code
@@ -43,6 +43,11 @@ $Project "launcher_main"
 {
 	"launcher_main\launcher_main.vpc" [$WIN32]
 }
+
+$Project "gameui"
+{
+         "gameui/gameui.vpc"
+}
 ```
 
 then after that move to 'vpc_scripts/groups.vgc' and just past the next code above ( $Group "gamedlls" )
@@ -51,6 +56,7 @@ then after that move to 'vpc_scripts/groups.vgc' and just past the next code abo
 $Group "application"
 {
 	"appframework"
+        "gameui"
 	"launcher"
 	"launcher_main"
 }
@@ -69,6 +75,7 @@ paste :
 
 ```
 	"appframework"
+        "gameui"
 	"launcher"
 	"launcher_main"
 ```
@@ -79,6 +86,7 @@ to be like this :
 $Group "everything"
 {
 	"appframework"
+        "gameui"
 	"launcher"
 	"launcher_main"
 	
